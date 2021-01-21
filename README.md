@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Parth-42's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth-42&show_icons=true&theme=buefy)](https://github.com/Parth-42)
+[![Parth-42's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth-42&show_icons=true&theme=buefy)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-42&layout=compact&theme=buefy)](https://github.com/Parth-42/github-readme-stats)
