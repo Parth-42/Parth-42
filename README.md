@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Parth-42's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth-42&show_icons=true&theme=buefy)](https://github.com/AVS1508)
+[![Parth-42's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth-42&show_icons=true&theme=buefy)](https://github.com/Parth-42)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-42&layout=compact&theme=buefy)](https://github.com/Parth-42/github-readme-stats)
@@ -32,4 +32,4 @@
 <a href="mailto:parthpuri2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-parthpuri2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Parth-42](https://github.com/AVS1508)
+⭐️ From [Parth-42](https://github.com/Parth-42)
