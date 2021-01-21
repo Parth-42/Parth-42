@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | React | Express | Mongoose 
+- 💻 &nbsp; JavaScript | Java | C 
+- 🌐 &nbsp; HTML | CSS | Node.js | React | Express | Mongoose 
 - 🛢 &nbsp;  MySQL | MongoDB
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; AdobeXD | Figma | Photoshop | Resolve
