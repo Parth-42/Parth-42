@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | C 
-- 🌐 &nbsp; HTML | CSS | Node.js | React | Express | Mongoose 
-- 🛢 &nbsp;  MySQL | MongoDB
-- 🔧 &nbsp; Git 
+- 🌐 &nbsp; React | Redux | Node.js | React | Express | Mongoose 
+- 🛢 &nbsp;  MongoDB | mySQL
+- 🔧 &nbsp; Git | Heroku | Netlify
 - 🖥 &nbsp; AdobeXD | Figma | Photoshop | Resolve
 
 <br/>
