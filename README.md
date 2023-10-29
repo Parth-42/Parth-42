@@ -19,9 +19,6 @@
 
 <br/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=parth-42&show_icons=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-42&layout=compact&theme=radical)](https://github.com/Parth-42/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
