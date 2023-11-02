@@ -3,11 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering.
-- 🌱 &nbsp; Learning more about Web Developement, Systems Design and Game Developement.
-- ✍️ &nbsp; Pursuing UI Design and Freelancing as side hustles.
+- 🎓 &nbsp; Computer Science Major.
+- 🌱 &nbsp; Learning more about Web Developement, Systems Design and UI Design.
 - 🎮 &nbsp; PC Hardware Enthusiast and Gamer.
-
 
 <h3>🛠 Tech Stack</h3>
 
